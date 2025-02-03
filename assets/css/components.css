@@ -40,3 +40,11 @@
 .btn-link img {
   height: 10px;
 }
+
+/* Mark */
+mark {
+  padding: 0px 5px;
+  border-radius: 3px;
+  border: solid 1px var(--color-dark);
+  background-color: transparent;
+}
