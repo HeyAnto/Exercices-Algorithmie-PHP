@@ -13,6 +13,7 @@
 
         <section class="flex flex-row flex-wrap gap-10 mt-50">
             <a class="btn btn-primary" href="/exercices/0.1.php">Exercice 0.1</a>
+            <a class="btn btn-primary" href="/exercices/0.2.php">Exercice 0.2</a>
         </section>
 
         <section class="flex flex-row gap-20 mt-50">
